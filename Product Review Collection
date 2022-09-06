@@ -1,0 +1,13 @@
+<script type="text/javascript">
+                   var _rrPR = {
+                       seller_id: XXXXX, < - Replace with SellerID
+                       email: '', /* <- Customer Email */
+                       sku: ["PRODUCT_SKU"], - add sku's in array
+                       invoice: '' /* <- Invoice Number */
+                           };
+                   (function() {
+                       var s=document.createElement('script');s.type='text/javascript';s.async=true;
+                       s.src="https://www.resellerratings.com/popup/include/load.js";var ss=document.getElementsByTagName('script')[0];
+                       ss.parentNode.insertBefore(s,ss);
+                   })();
+                   </script>

@@ -1,0 +1,19 @@
+<!-- ResellerRatings Start  Bottom of your page-->
+<script> 
+var __RRPRWidget_Settings = {
+            name: "THE_PRODUCT_NAME",
+            sku: "PRODUCT_SKU",
+            mpn: "PRODUCT_MPN",
+            gtin: "PRODUCT_GTIN",
+            img: "PRODUCT_IMAGE_URL",
+            url: "PRODUCT_URL",
+            brand: "PRODUCT_BRAND",
+            category: "PRODUCT_CATEGORY"
+            };
+ </script>
+ 
+
+<script
+src="https://www.resellerratings.com/productreviews/widget/javascript/my_store_name.js?sku=PRODUCT_SKU"> </script>
+
+<!-- ResellerRatings End  -->
